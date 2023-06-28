@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testasw/static/css/main.2c3bf90b.css",
+    "main.js": "/testasw/static/js/main.3096bac6.js",
+    "static/media/arian-darvishi-wh-RPfR_3_M-unsplash.jpg": "/testasw/static/media/arian-darvishi-wh-RPfR_3_M-unsplash.8a623d4bd31a5151f762.jpg",
+    "static/media/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg": "/testasw/static/media/lorenzo-herrera-p0j-mE6mGo4-unsplash.c393076f14da75158b2d.jpg",
+    "static/media/lee-campbell-DtDlVpy-vvQ-unsplash.jpg": "/testasw/static/media/lee-campbell-DtDlVpy-vvQ-unsplash.c3791ec1d46a63d9efb3.jpg",
+    "index.html": "/testasw/index.html",
+    "main.2c3bf90b.css.map": "/testasw/static/css/main.2c3bf90b.css.map",
+    "main.3096bac6.js.map": "/testasw/static/js/main.3096bac6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c3bf90b.css",
+    "static/js/main.3096bac6.js"
+  ]
+}
